@@ -1,3 +1,3 @@
 # TestRepository
 
-This is a test for learning.
+This is a test built for learning.
